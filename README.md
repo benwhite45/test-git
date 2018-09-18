@@ -6,3 +6,6 @@ Here is some more interesting news from Ben
 
 ## This was added on the branch
 This text added on the branch
+
+
+hi
